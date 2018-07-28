@@ -1,4 +1,4 @@
-# ohmslaw
+# ohmslawcalculator.js
 A basic Javascript calculator for general EIRP discovery using Ohm's law.
 
 ## Setup
