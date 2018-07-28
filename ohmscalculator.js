@@ -1,7 +1,7 @@
 /* 
 Title: Ohm's Law Calculator
 Author: Matthew Sweet, KE0IMD
-Contact: ke0imd@gmail.com
+Contact: themattbook@gmail.com
 Description: Probably the most inefficient means of calculating
 Ohm's law values using Javascript. Far from perfect.
 License: GNU General Public License 2.0
