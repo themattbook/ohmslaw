@@ -1,5 +1,5 @@
 /* 
-Ohm's Law Calculator
+Title: Ohm's Law Calculator
 Author: Matthew Sweet, KE0IMD
 Contact: ke0imd@gmail.com
 Description: Probably the most inefficient means of calculating
